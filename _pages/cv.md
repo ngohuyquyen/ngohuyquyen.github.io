@@ -12,9 +12,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in Electrical & Electronic & Information Engineering, Nagoya University, Japan 2019
-* M.S. in Mechanical Engineering, University of Michigan, 2021
 * Ph.D in Robotics, Carnegie Mellon University, 2026 (expected)
+* M.S. in Mechanical Engineering, University of Michigan, 2021
+* B.S. in Electrical & Electronic & Information Engineering, Nagoya University, Japan 2019
 
 Work experience
 ======
