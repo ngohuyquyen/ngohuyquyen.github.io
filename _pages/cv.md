@@ -11,16 +11,15 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Electrical & Electronic & Information Engineering, Nagoya University, Japan 2019
+* M.S. in Mechanical Engineering, University of Michigan, 2021
+* Ph.D in Robotics, Carnegie Mellon University, 2026 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Sept 2021 - Aug 2022: Research Assistant
+  * Carnegie Mellon University
+  * Research on Haptics and Human-Robot Interaction for Guidance Robots
 
 * Fall 2015: Research Assistant
   * Github University
