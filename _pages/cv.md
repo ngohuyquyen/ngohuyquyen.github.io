@@ -6,7 +6,7 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-[View my CV](http://academicpages.github.io/files/resume.pdf)
+[View my CV](http://ngohuyquyen.github.io/files/resume.pdf)
 
 {% include base_path %}
 
