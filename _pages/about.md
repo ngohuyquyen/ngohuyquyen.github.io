@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "**[Sept 2022]** Started my PhD in Robotics at Carnegie Mellon University!!"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
