@@ -10,7 +10,7 @@ redirect_from:
 
 **Actively looking for research-oriented opportunities in Robotics, Machine Learning and Autonomous Systems**
 
-I am a PhD Candidate in the Robotics Institute at Carnegie Mellon University, working with Professor [Jean Oh]https://www.cs.cmu.edu/~./jeanoh/ on 3D Content Generation for Virtual Reality. I have a MS in Mechanical Engineering from the University of Michigan, and a BS in Electrical Engineering from Nagoya University, Japan.
+I am a PhD Candidate in the Robotics Institute at Carnegie Mellon University, working with Professor [Jean Oh](https://www.cs.cmu.edu/~./jeanoh/) and [Ji Zhang](https://frc.ri.cmu.edu/~zhangji/) on 3D Content Generation for Virtual Reality. I have a MS in Mechanical Engineering from the University of Michigan, and a BS in Electrical Engineering from Nagoya University, Japan.
 
 [Sept 2022] Start my PhD in Robotics at Carnegie Mellon University
 
