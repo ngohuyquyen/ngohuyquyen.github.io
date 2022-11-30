@@ -1,12 +1,12 @@
 ---
-permalink: /
+<!-- permalink: /
 title: "**NEWS**"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
----
+--- -->
 ---
 
 [Sept 2022] Start my PhD in Robotics at Carnegie Mellon University
