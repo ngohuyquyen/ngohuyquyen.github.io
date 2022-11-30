@@ -12,7 +12,7 @@ I am a PhD Candidate in the Robotics Institute at Carnegie Mellon University, wo
 
 ---
 
-**UPDATE**
+**NEWS**
 
 [Sept 2022] Start my PhD in Robotics at Carnegie Mellon University
 
