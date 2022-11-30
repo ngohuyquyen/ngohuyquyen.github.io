@@ -7,6 +7,9 @@ redirect_from:
   - /about/
   - /about.html
 --- -->
+
+I am a PhD Candidate in the Robotics Institute at Carnegie Mellon University, working with Professor Jean Oh on 3D Content Generation for Virtual Reality.
+---
 ---
 
 [Sept 2022] Start my PhD in Robotics at Carnegie Mellon University
