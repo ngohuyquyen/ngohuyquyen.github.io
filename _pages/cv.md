@@ -21,8 +21,8 @@ Work experience
 ======
 * Sept 2022 - Present: PhD Candidate
   * Carnegie Mellon University
-  * Research on Virtual Reality, 3D Content Generation and Creative AI
-  * Supervisor: Jean Oh and Ji Zhang
+  * Research on Robotic Manipulation and AI in Human-Robot Interaction
+  * Supervisor: Aaron Steinfeld
 
 * Sept 2021 - Aug 2022: Research Assistant
   * Carnegie Mellon University
@@ -39,10 +39,13 @@ Work experience
   
 Skills
 ======
-* Programming Language
+* Programming Languages
   * C/C++
   * Python
   * MATLAB
+* Robotics
+  * Linux
+  * ROS
 * Machine Learning and AI
   * Deep Learning
   * Pytorch
