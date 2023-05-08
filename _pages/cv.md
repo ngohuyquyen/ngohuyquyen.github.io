@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 ---
-[View my CV](http://ngohuyquyen.github.io/files/HUY QUYEN NGO - RESUME.pdf)
+[View my CV](http://ngohuyquyen.github.io/files/resume.pdf)
 
 {% include base_path %}
 
