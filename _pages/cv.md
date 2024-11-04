@@ -19,14 +19,16 @@ Education
 
 Work experience
 ======
-* Sept 2022 - Present: PhD Candidate
+* May 2024 - August 2024: Research Scientist Intern
+  * Honda Research Institute, San Jose, CA
+  * Research on multi-modal human modeling and robot action adaptation in physical Human-Robot Interaction
+  * Supervisor: Rana Soltani Zarrin
+  
+* Sept 2021 - Present: PhD Candidate
   * Carnegie Mellon University
-  * Research on Robotic Manipulation and AI in Human-Robot Interaction
+  * Research on Human-Centered Machine Learning and Human-Robot Interaction
   * Supervisor: Aaron Steinfeld
-
-* Sept 2021 - Aug 2022: Research Assistant
-  * Carnegie Mellon University
-  * Research on Haptics and Human-Robot Interaction for Guidance Robots
+  * Collaboration: BMW
 
 * May 2021 - Aug 2021: Applied Research Scientist Intern
   * Aptiv LLC
