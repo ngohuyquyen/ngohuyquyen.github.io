@@ -22,18 +22,18 @@ Work experience
 * May 2024 - August 2024: Research Scientist Intern
   * Honda Research Institute, San Jose, CA
   * Research on multi-modal human modeling and robot action adaptation in physical Human-Robot Interaction
-  * Supervisor: Rana Soltani Zarrin
+  * Supervisor: Dr. Rana Soltani Zarrin and Dr. Yuhan Hu
   
 * Sept 2021 - Present: PhD Candidate
   * Carnegie Mellon University
   * Research on Human-Centered Machine Learning and Human-Robot Interaction
-  * Supervisor: Aaron Steinfeld
+  * Supervisor: Prof. Aaron Steinfeld
   * Collaboration: BMW
 
 * May 2021 - Aug 2021: Applied Research Scientist Intern
   * Aptiv LLC
   * Research on Map Validation and Change Detection for Autonomous Vehicles using Radar
-  * Supervisor: Kai Zhang
+  * Supervisor: Dr. Kai Zhang
 
 * Aug 2020 - Apr 2021: Student Researcher
   * Ford Center for Autonomous Vehicles
